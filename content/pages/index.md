@@ -2,13 +2,11 @@
 title: Home
 sections:
   - type: hero_section
-    title: Instantly Boost Your Productivity
+    title: Optimize the athlete within you
     subtitle: >-
-      Stop switching between calendars and task lists!
+      A fitness app for athletic performance
     content: >-
-      App Land combines your work and home calendars with all your task
-      management tools into one seamless experience controlled by a single app
-      that you can use on any device.
+      OA accelerates your athletic journey into fitness. Wether you're just starting out, or a seasoned athlete, or just thinking about getting in shape, you have a home with us. Join athletes doing just that.
     actions:
       - label: App Store
         url: /pricing
