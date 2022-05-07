@@ -48,7 +48,7 @@
         ]
     },
     "footer": {
-        "logo": "images/logo.svg",
+        "logo": "images/oalogo1.svg",
         "logo_alt": "App logo",
         "has_primary_nav": true,
         "primary_nav_title": "Company",
@@ -145,11 +145,11 @@
                 "new_window": true
             }
         ],
-        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=app&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>"
+        "content": "&copy; OA Labs Pty Ltd. All rights reserved." 
     },
     "announcement": {
         "has_anncmnt": true,
-        "anncmnt_content": "Curabitur ac tellus mattis, tempor ipsum eu, eleifend sapien. **[Learn More](/pricing/)**",
+        "anncmnt_content": "OA is now Live! **[Learn More](/pricing/)**",
         "anncmnt_align": "left",
         "anncmnt_is_home_only": true,
         "anncmnt_has_close": true,
